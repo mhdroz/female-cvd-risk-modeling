@@ -4,7 +4,7 @@ A reproducible experiment demonstrating how standard machine learning
 practices can silently disadvantage women in cardiovascular disease (CVD) 
 prediction — and how purpose-built, female-aware features can close that gap.
 
-Read the full write-up on Substack: [YOUR_SUBSTACK_POST_URL]
+Read the full write-up on Substack: [ADD URL]
 
 ---
 
@@ -110,8 +110,8 @@ cardiovascular_demo/
 ## Quickstart
 
 ```bash
-git clone <this-repo>
-cd cardiovascular_demo
+git clone female-cvd-risk-modeling
+cd female-cvd-risk-modeling
 pip install pandas numpy scikit-learn matplotlib seaborn
 jupyter notebook framingham_experiments.ipynb
 ```
@@ -128,7 +128,7 @@ initiated in 1948 in Framingham, Massachusetts.
   glucose, diabetes, hypertension, and more
 - Outcome: 10-year coronary heart disease incidence (15.2% prevalence)
 - Source: publicly available via 
-  [Kaggle](https://www.kaggle.com/datasets/amanajmera1/framingham-heart-study-dataset)
+  [Kaggle](https://www.kaggle.com/datasets/aasheesh200/framingham-heart-study-dataset)
 
 ---
 
@@ -150,9 +150,9 @@ initiated in 1948 in Framingham, Massachusetts.
 
 ## Connect
 
-- Full write-up and analysis: [YOUR_SUBSTACK_URL]
-- Personal website: [[Personal website](https://www.mhd-ai.com/)]  
-- LinkedIn: [[LinkedIn](https://www.linkedin.com/in/marie-humbert-droz/)]
+- Full write-up and analysis: [The Women's Health Stack](https://thewomenshealthstack.substack.com/)
+- [Personal website](https://www.mhd-ai.com/)
+- [LinkedIn](https://www.linkedin.com/in/marie-humbert-droz/)
 
 Feedback, questions, or collaboration ideas are welcome — open an issue or 
 reach out directly.
