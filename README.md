@@ -4,7 +4,7 @@ A reproducible experiment demonstrating how standard machine learning
 practices can silently disadvantage women in cardiovascular disease (CVD) 
 prediction — and how purpose-built, female-aware features can close that gap.
 
-Read the full write-up on Substack: [ADD URL]
+Read the full write-up on [Substack](https://open.substack.com/pub/thewomenshealthstack/p/the-menopause-transition-is-a-cardiovascular?r=7sodzr&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
 
 ---
 
