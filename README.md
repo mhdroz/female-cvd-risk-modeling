@@ -151,8 +151,8 @@ initiated in 1948 in Framingham, Massachusetts.
 ## Connect
 
 - Full write-up and analysis: [YOUR_SUBSTACK_URL]
-- Personal website: [[text](https://www.mhd-ai.com/)]  
-- LinkedIn: [YOUR_LINKEDIN_URL]
+- Personal website: [[Personal website](https://www.mhd-ai.com/)]  
+- LinkedIn: [[LinkedIn](https://www.linkedin.com/in/marie-humbert-droz/)]
 
 Feedback, questions, or collaboration ideas are welcome — open an issue or 
 reach out directly.
