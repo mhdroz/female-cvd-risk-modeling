@@ -94,6 +94,7 @@ recall from Experiment 1.
 ---
 
 ## Repository Structure
+```
 cardiovascular_demo/
 ├── framingham_experiments.ipynb   # Main experiment notebook
 ├── framingham_eda.ipynb           # Exploratory data analysis
@@ -103,7 +104,7 @@ cardiovascular_demo/
 ├── feature_engineering.py     # Feature sets and female-specific features
 ├── modeling.py                # Experiment runner, threshold optimization, RFECV
 └── results.py                 # Metrics, comparison tables, fairness visualizations
-
+```
 ---
 
 ## Quickstart
